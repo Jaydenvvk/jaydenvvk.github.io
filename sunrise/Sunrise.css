@@ -1,0 +1,42 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+th {
+    font-size: 50px;
+
+}
+h1{
+    text-align : center;
+    font-size: 50px;
+    color: #e0ae40;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+nav{
+    text-align: center;
+    margin: 20px;
+     background-color: beige;
+    height: auto;
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.achtergrond{
+    background-image: url(sunrise.jpg);
+     background-size: cover;
+}
+.sunrise{
+    text-align: center;
+    
+}
+.timebox{
+    display: flex;
+    margin-left: 42.5%;
+    margin-top: 25px;
+    gap: 30px;
+    background-color: beige;
+    width: 280px;
+    border-radius: 15px;
+}
